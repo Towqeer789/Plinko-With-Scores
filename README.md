@@ -1,1 +1,1 @@
-# Plinko-With-Scores
+# Box Class
